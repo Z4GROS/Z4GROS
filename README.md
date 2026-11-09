@@ -1,46 +1,86 @@
 
-# Hi, I'm Amine 👋
+<div align="center">
 
-### Software Development Student | Data Engineering & AI Enthusiast
+# AMINE MRAUTI
 
-I'm a software development student based in Madrid, Spain, interested in building practical software solutions and exploring the fields of Data Engineering, Artificial Intelligence and Backend Development.
+### Software Developer · Data Engineering & AI Enthusiast
 
-I enjoy learning by building projects, solving problems and experimenting with new technologies.
+Building practical solutions through code, data and technology.
 
-## 🚀 About Me
+Madrid, Spain 🇪🇸
 
-- 🎓 Studying Multiplatform Application Development (DAM).
-- 💡 Interested in Data Engineering, AI and Backend Development.
-- 🔧 Building personal projects and real-world applications.
-- 🌱 Continuously learning and improving my technical skills.
-- 🌍 Open to international learning and collaboration opportunities.
+[![GitHub](https://img.shields.io/badge/GitHub-Z4GROS-161B22?style=for-the-badge&logo=github)](https://github.com/Z4GROS)
 
-## 🛠️ Technologies & Tools
+</div>
 
-**Programming:** Java, JavaScript, SQL
+---
 
-**Backend:** Node.js, Express, REST APIs
+## `01` — About Me
 
-**Databases & Cloud:** Firebase, SQL databases
+I'm a software development student currently pursuing a Higher
+Vocational Training degree in Multiplatform Application Development
+(DAM).
 
-**Tools:** Git, GitHub
+I'm particularly interested in **Data Engineering, Artificial
+Intelligence and Backend Development**.
 
-## 📌 Featured Project
+I enjoy building practical projects, understanding how systems work
+and exploring technologies that solve real-world problems.
 
-### Wasl — Live Speech Translation
+- 🎓 DAM student based in Madrid, Spain.
+- 💻 Interested in data, AI and backend systems.
+- 🚀 Developing personal projects and real-world applications.
+- 🌱 Currently expanding my knowledge of data engineering and cloud technologies.
+- 🌍 Open to international opportunities and collaboration.
 
-A real-time speech transcription and translation platform designed to make talks, sermons and events more accessible through multilingual live translations.
+## `02` — Tech Stack
+
+**Programming & Development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & Real-time Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Cloud & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## `03` — Featured Projects
+
+### Wasl | Real-time Speech Translation
+
+A multilingual platform that makes talks, sermons and events more
+accessible through real-time speech transcription and translation.
+
+**Key technologies:**
+- Node.js & Express
+- Socket.IO
+- Deepgram API
+- Claude API
+- Firebase
 
 Currently under active development.
 
-## 🎯 Areas of Interest
+## `04` — Areas of Interest
 
-- Data Engineering
-- Artificial Intelligence
-- Backend Development
-- Cloud Technologies
+- Data Engineering & Data Pipelines
+- Artificial Intelligence & Machine Learning
+- Backend Systems & APIs
+- Cloud Infrastructure
 - Software Architecture
 
 ---
 
-*Always learning. Always building.*
+<div align="center">
+
+*Learning continuously. Building with purpose.*
+
+</div>
